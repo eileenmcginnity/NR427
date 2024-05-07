@@ -19,6 +19,8 @@ Dam data from the DWR's Decision Support System was used to filter data, calcula
 
 This notebook only uses open source python libraries.
 
+To get started, download the .ipynb and the CDSS_SearchResults_DamSafety_202404231547.csv.
+---
 TWO NOTES BEFORE RUNNING:
 1. Remember to change the main_path to the location where this file is saved.
 2. kaleido version 0.1.0 is required. This is NOT the latest version; use the code included in the notebook to install.
