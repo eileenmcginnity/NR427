@@ -1,6 +1,6 @@
 # NR 427 Final Project
 ## Eileen McGinnity - May 6, 2024
-
+### <a href = "https://nbviewer.org/github/eileenmcginnity/NR427/blob/main/NR%20427%20Final%20Project%20McGinnity.ipynb">Click here to view the notebook online</a>
 The purpose of this project is to investigate the safety of Colorado's jurisdictional dams. A jurisdictional dam is a dam large enough to pose a threat to human life and/or cause damage, should the dam break. Colorado's Department of Water Resources (DWR) Decision Support Systems inspect these dams and reports on the hazard level. The hazard levels are defined as follows:
 
 * High: high chance of deaths and widespread damage if one of these dams break.
