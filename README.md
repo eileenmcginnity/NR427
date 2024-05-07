@@ -9,7 +9,7 @@ The purpose of this project is to investigate the safety of Colorado's jurisdict
 * No Public Hazard (NPH): the public should not be directly affected by a dam break.
 
 The main tasks of this notebook are:
-Importing libraries and data; setting up paths
+* Importing libraries and data; setting up paths
 * Editing/cleaning data
 * Creating pie charts to display data
 * Performing buffers and spatial joins
